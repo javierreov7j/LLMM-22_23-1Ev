@@ -1,1 +1,27 @@
-<!-- Aquí el contenido en xml (Borrar esta línea) -->
+<alumno>
+    <firstname>Hasbullah Magomedov</firstname>
+    <email>hasbullah@meme.com</email> 
+    <estudios>
+        <curso>1º</curso>
+        <ciclo>Eucacion infantil</ciclo>
+    </estudios>
+    <hobbies>
+        "ser un meme"
+        
+    </hobbies>
+    <asignaturas>
+        <asignatura>
+            <titulo>Lenguaje de Marcas</titulo>
+            <profesor>Rodri</profesor>
+        </asignatura>
+        <asignatura>
+            <titulo>Ingles</titulo>
+            <profesor>Olaya A.K.A "La de ingles"</profesor>
+        </asignatura>
+        <asignatura>
+            <titulo>Programacion</titulo>
+            <profesor>Pelayo</profesor>
+        </asignatura>
+    </asignaturas>
+
+</alumno>
